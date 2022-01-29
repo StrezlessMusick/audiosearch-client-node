@@ -9,7 +9,7 @@
   "author": "Mike Surowiec",
   "license": "ISC",
   "dependencies": {
-    "events": "^1.0.2",
+    "events": "^3.3.0",
     "promise": "^7.0.4",
     "request": "^2.61.0"
   }
