@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "events": "^1.0.2",
-    "promise": "^7.0.4",
+    "promise": "^8.1.0",
     "request": "^2.61.0"
   }
 }
